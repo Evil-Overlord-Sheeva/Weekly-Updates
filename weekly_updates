@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang=i"en">
+<head>
+<meta charset="utf-8">
+<title>Weekly Updates</title>
+</head>
+
+<body><center><h1>Weekly Updates</h1><a href="index.html">back</a></center>
+
+<hr>
+
+<p><a href=week6.html>3/13-3/17</a></p>
+
+<p><a href=week5.html>3/7-3/9</a></p>
+
+<p><a href=week4.html>Week 4</a></p> 
+
+<hr>
+
+<p><a href=week3.html>Week 3</a></p>
+
+<p>Week 2
+<hr>
+I have gone through the coding behind the web page for "Ava's Demon" and have made a list of all of the terms, tags, and commands I did not recognize with their definitions.</p>
+
+<p> I am now continuing my research of the rad hat academy curriculum.</p>
+
+<hr>
+
+<p>Week One</p>
+<hr>
+<p>I have begun deciphering the HTML code of the webcomic "Ava's Demon".<a href="avas_demon_decode.html">Ava's Demon Vocab List</a></p>
+<p> <img src="Ava's_Demon1.png" alt="Ava's Demon1.png"></p>
+<p> <img src="Ava's_Demon2.png" alt="Ava's Demon2.png"></p>
+<p>I will be entering items into a list as I find them in the html file</p>
+<p>example:</p>
+<dl>
+    <dt>head</dt>
+        <dd>Type:html. The head element is a container for metadata (data about data) and is placed between the html tag and the body tag.</dd>
+    <dt>body</dt>
+        <dd>Type:html. The 
+
+</dl>
+</body>
+</html>
